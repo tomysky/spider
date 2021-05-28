@@ -1,0 +1,2 @@
+# spider
+no-framework spider
